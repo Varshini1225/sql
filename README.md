@@ -1,2 +1,2 @@
-# sql
-sql
+# SQL-Injection-Detector
+
